@@ -4,6 +4,8 @@
         <div>{{obj}}</div>
         <div>{{arr}}</div>
         <div>hello world</div>
+
+        <div>dev</div>
     </div>
 </template>
 
