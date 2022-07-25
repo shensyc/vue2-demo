@@ -3,6 +3,7 @@
         <div>{{str}}</div>
         <div>{{obj}}</div>
         <div>{{arr}}</div>
+        <div>hello world</div>
     </div>
 </template>
 
