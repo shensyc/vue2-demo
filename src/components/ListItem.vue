@@ -6,6 +6,8 @@
         <div>hello world</div>
 
         <div>dev</div>
+
+        <div>test</div>
     </div>
 </template>
 
